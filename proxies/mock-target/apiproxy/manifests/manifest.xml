@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="JS-TestScript" version="SHA-512:06b9e54a3e557cafbee3e4f02cc02595e2b974b8318649e0c41d928d23903366cfeaeb1990e5753105e43d7c6e52bd533f9c59d29e9c8781e8e5387d0703408e"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:5f53a9abb2cb48faeea79f2eae12ac1e60bf8200c99998143201f072f3a42320cd12edc50bd8c835f1900e273d105fa27249b369aae7e62bc7dbd65e6ebfc61d"/>
+        <VersionInfo resourceName="VerifyKey" version="SHA-512:5a4abe5bfc2e1a3bdadee8ce38fc6672e18b3b8060358728d7d00b3523e1bd9846ae51187ff9cae670ca29a7f898c542f9806ef7fd3c9125540ffc2a361c0c6e"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:9b208e632787459f9ab933ca0b7691f4647ec9c7ee0beeb0088514aec79cba32463be0cf7545ca7ef163024b1b23236122dbc7db61ce6053db9c4774977e68d6"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://JS-TestScript.js" version="SHA-512:30c0dcdc373e71e681cf679508f804d0773c6992f7669edf58882654a180f15675dff15542982d42649d0adfe49cd4726ecb149305961a06e0cd75d438a1c065"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c04df3f5023f3990208f6daf697a98ae8607e6b0148625d8198d6ee51102c3738d8972cc975e8f44a5c7d792a51aed948b0b35542bf3d75d436134a1797f17fd"/>
+    </TargetEndpoints>
+</Manifest>

@@ -1,0 +1,6 @@
+.DS_Store
+tests/node_modules/
+tests/package-lock.json
+tests/.publishrc
+proxies/mock-target/target/
+proxies/trading-apis/target/

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="21" name="mock-target">
+    <Basepaths>/mock-target</Basepaths>
+    <Basepaths>/mock-target</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1600064246713</CreatedAt>
+    <CreatedBy>srinibas.misra97@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>mock-target</DisplayName>
+    <LastModifiedAt>1606980314872</LastModifiedAt>
+    <LastModifiedBy>srinibas.misra97@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:2648a882cb6adabb404f0cab2c9640594c5c504b48ea209fbd786e24ccbafcadbbf9ae16535b6f31b9c2d9fdefbbd8716f019283a5930b99de1334248da19fc1:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>JS-TestScript</Policy>
+        <Policy>Quota-1</Policy>
+        <Policy>VerifyKey</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://JS-TestScript.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

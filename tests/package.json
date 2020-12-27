@@ -1,0 +1,17 @@
+{
+  "name": "apiproxy-test",
+  "version": "1.0.0",
+  "description": "Integration testing for mock-target v1",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0",
+    "apickli": "^2.3.3",
+    "cucumber": "^7.0.0-rc.0",
+    "mocha": "^8.2.1",
+    "openapi2apigee": "^0.6.2",
+    "sinon": "^9.2.1"
+  },
+  "scripts": {
+    "publish-please": "publish-please",
+    "prepublishOnly": "publish-please guard"
+  }
+}
